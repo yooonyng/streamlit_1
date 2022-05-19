@@ -52,6 +52,5 @@ def main():
         st.subheader('파일 업로드 프로젝트 입니다.')
 
 
-
 if __name__=='__main__' :
     main()
