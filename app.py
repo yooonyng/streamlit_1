@@ -7,4 +7,5 @@ def main() :
     st.title('Hello')
 if __name__ == '__main__':
     main()
-    
+
+# 터미널 컨트롤 c 누르면 인터넷 연결 끊김
